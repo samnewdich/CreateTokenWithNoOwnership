@@ -1,0 +1,6 @@
+PRIVATE_KEY=0xc40cd32b847da7cefcc1c52d5bdf6677390d7b74c6ec4315d26e7cdd07c5c084
+#PUBLIC_RPC=https://bsc-dataseed.binance.org
+#PRIVATE_RPC=https://bsc-dataseed.binance.org
+BSC_TESTNET_RPC=https://data-seed-prebsc-1-s1.binance.org:8545/
+PUBLIC_RPC=https://bsc-mainnet.nodereal.io/v1/93d8d6e5649e47eabfe028e8bdfb8bfc
+PRIVATE_RPC=https://bsc-mainnet.nodereal.io/v1/93d8d6e5649e47eabfe028e8bdfb8bfc
